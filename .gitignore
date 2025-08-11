@@ -209,3 +209,4 @@ __marimo__/
 
 # Folder
 .artifacts 
+.catboost_info
